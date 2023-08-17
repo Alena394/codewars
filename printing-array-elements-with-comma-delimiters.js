@@ -1,4 +1,4 @@
-/*DISCRIPTION:
+/*DESCRIPTION:
 Input: Array of elements
 
 ["h","o","l","a"]
